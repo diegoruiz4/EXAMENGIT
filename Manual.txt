@@ -1,6 +1,6 @@
 PROGRAMA ALMACENAMIENTO DE DATOS DE ALUMNOS DE UNA CLASE
 ========================================================
-// nuevo
+// nueva prueba
 
 MANUAL DE INSTRUCCIONES
 -----------------------
